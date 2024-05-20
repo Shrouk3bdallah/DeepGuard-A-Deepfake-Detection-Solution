@@ -9,3 +9,8 @@ The repository provides a detailed description of the solution's architecture, i
 
 The results of the evaluation show that DeepGuard achieves high accuracy in detecting deepfake videos, outperforming existing state-of-the-art solutions. The repository concludes by discussing the potential applications of DeepGuard in various domains, including social media, journalism, and law enforcement, and highlighting the importance of continued research and development in the field of deepfake detection.
 
+You can try our solution using:
+1- Website at https://deep-guard.web.app/
+
+
+2- Android App
